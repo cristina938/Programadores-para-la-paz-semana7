@@ -1,0 +1,11 @@
+Ejemplo 1:
+{ 
+ "tipo": " insfraestructura",
+ "descripcion": "Daños en alumbrado publico"
+} 
+
+Ejemplo 2:
+{
+"tipo": "Ambiente",
+ " descripcion": "acumulacion de reciduos en una>
+}

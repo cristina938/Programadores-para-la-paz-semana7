@@ -1,0 +1,5 @@
+{
+ "id": 1,
+ "tipo": " infraestructura",
+ "descripcion" : " Daños en alumbrado publico"
+}
