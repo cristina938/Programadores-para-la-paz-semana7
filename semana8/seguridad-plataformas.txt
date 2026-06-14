@@ -1,0 +1,6 @@
+echo "1. No exponer datos personales ni información privada en espacios públicos." > seguridad-plataformas.txt
+echo "2. Proteger las credenciales y usar contraseñas seguras y únicas." >> seguridad-plataformas.txt
+echo "3. Acceder solo mediante conexiones seguras y cifradas." >> seguridad-plataformas.txt
+echo "4. Registrar y monitorear los accesos para detectar actividades sospechosas." >> seguridad-plataformas.txt
+echo "5. Limitar los permisos y el acceso a información sensible según el rol de cada usuario." >> seguridad-plataformas.txt
+

@@ -1,0 +1,4 @@
+echo "Comando uname -a: Muestra información completa del sistema: versión del núcleo, arquitectura, tipo de sistema operativo y detalles de la máquina." > sistema.txt
+echo "Comando whoami: Muestra el nombre del usuario actual que tiene la sesión abierta en la terminal." >> sistema.txt
+echo "Por qué es útil: Al administrar un servidor, conocer estos datos ayuda a verificar el entorno, confirmar permisos de acceso, solucionar errores de compatibilidad y saber con qué cuenta se realizan los cambios." >> sistema.txt
+

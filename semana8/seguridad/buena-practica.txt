@@ -1,0 +1,4 @@
+echo "1. Usar contraseñas seguras y diferentes para cada cuenta" > buenas-practicas.txt
+echo "2. No abrir enlaces ni archivos de remitentes desconocidos" >> buenas-practicas.txt
+echo "3. Activar la verificación en dos pasos en tus cuentas" >> buenas-practicas.txt
+
